@@ -41,7 +41,7 @@
 
 ---
 
-[![kokoyroy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kokoyroy)](https://github.com/anuraghazra/github-readme-stats)
+[![kokoyroy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kokoyroy)](https://github.com/kokoyroy)
 
 
 
@@ -61,7 +61,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.kokoyroy.vercel.app/api?username=kokoyroy&show_icons=true&hide_border=true" />
+  <!-- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.kokoyroy.vercel.app/api?username=kokoyroy&show_icons=true&hide_border=true" /> -->
 
 </details>
 
