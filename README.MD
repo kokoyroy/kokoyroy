@@ -41,7 +41,7 @@
 
 ---
 
-[![kokoyroy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kokoyroy)](https://github.com/kokoyroy)
+[![kokoyroy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kokoyroy&count_private=true&show_icons=true&theme=react)](https://github.com/kokoyroy)
 
 
 
